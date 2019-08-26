@@ -1,6 +1,6 @@
-# React <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-32.png" width=32> + Parcel <img src="https://parceljs.org/assets/parcel@2x.png" width=32> = 🎉
+# Personal profile
 
-Bolierplate code for building production ready [React](https://reactjs.irg) app using [Parcel](https://parceljs.org/).
+Personal profile of Yogesh Kumar, built with [React](https://reactjs.irg) and [Parcel](https://parceljs.org/).
 
 Also contains CSS styling using [Semantic-UI-CSS](https://github.com/Semantic-Org/Semantic-UI-CSS)
 
