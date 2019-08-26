@@ -25,7 +25,7 @@
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
-    "react-ga": "^2.6.0",
+    "react-ga": "latest",
     "semantic-ui-css": "latest"
   },
   "homepage": "http://boskysoft.com/",
