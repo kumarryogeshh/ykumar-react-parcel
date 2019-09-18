@@ -40,7 +40,7 @@ const Home = () => {
         music.
         <br />
         <br />
-        Require consultation? Feel free to drop me a{" "}
+        Feel free to drop me a{" "}
         <a href="mailto:yogesh@boskysoft.com">
           message <span>&#128519;</span>
         </a>
