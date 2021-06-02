@@ -53,7 +53,7 @@ const Home = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-08-22&ci=AWS01028248"
+              href="https://www.credly.com/badges/d4ba2461-cb04-4250-86d1-8212803cee63/public_url"
             >
               <img
                 class="ui medium image"
