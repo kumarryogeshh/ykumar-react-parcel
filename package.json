@@ -7,8 +7,8 @@
     "react-start": "parcel -p 3000 index.html --out-dir build",
     "react-build": "parcel build index.html --out-dir build --public-url ./",
     "clean-build": "rm -rf build/ .cache dist/",
-    "build": "yarn clean-build && yarn react-build",
-    "start": "yarn react-start"
+    "build": "npm run clean-build && npm run react-build",
+    "start": "npm run react-start"
   },
   "keywords": [
     "yogesh",
@@ -23,6 +23,7 @@
   "author": "Yogesh Kumar <yogesh@boskysoft.com>",
   "license": "MIT",
   "dependencies": {
+    "prop-types": "^15.7.2",
     "react": "latest",
     "react-dom": "latest",
     "react-ga": "latest",
@@ -30,11 +31,11 @@
   },
   "homepage": "http://boskysoft.com/",
   "devDependencies": {
-    "babel-core": "latest",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-react": "^7.13.13",
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "latest",
     "babel-plugin-transform-react-jsx": "latest",
-    "babel-preset-env": "latest",
-    "babel-preset-react": "latest",
     "parcel-bundler": "latest"
   }
 }

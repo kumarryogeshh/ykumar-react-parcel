@@ -41,7 +41,7 @@ const Home = () => {
         <br />
         <br />
         Feel free to drop me a{" "}
-        <a href="mailto:yogesh@boskysoft.com">
+        <a href="mailto:kumarryogeshh@gmail.com">
           message <span>&#128519;</span>
         </a>
         .
